@@ -4,6 +4,18 @@ Linux commands and concepts
 
 Contents:
 
+*Basic Administration:
+1)All Basic commands
+2)Creating & Managing Files & Directories
+3)User Administration - Permissions & Groups
+4)Partitions & LVM
+5)Files & Directories - Permissions, Access controls
+6)Package Managment
+
+*Network Administration
+
+
+
 Section -1:
 Basic Linux:
 
@@ -24,7 +36,7 @@ Why Linux:
 5)Cost effective
 6)Kernal source code is available for edit
 
-Architecutre:
+
 
 
 
