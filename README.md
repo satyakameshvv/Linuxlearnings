@@ -6,13 +6,21 @@ Contents:
 
 *Basic Administration:
 1)All Basic commands
-2)Creating & Managing Files & Directories
-3)User Administration - Permissions & Groups
-4)Partitions & LVM
-5)Files & Directories - Permissions, Access controls
-6)Package Managment
+2)Creating & Managing Files & Directories- File System Hierachy
+3)User Administration - Permissions & Groups, Access Controls(user & Group Administration)
+4)Booting Procedures
+5)Job Automation
+6)File Systems
+7)RPM & YUM,NFS mounting
+8)Partitions & LVM - Disk Management
+9)Single User mode (while booting)
+10)Package Managment
+11)SE Linux
+12)IP tables
+13)SSH password less login 
+14)
 
-*Network Administration
+
 
 
 
